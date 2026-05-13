@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Task Manager</h1>
   <img src="https://img.icons8.com/fluency/120/task.png" alt="Task Manager Logo" width="120" height="120" /><br /><br />
-<a href="#"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" width="226" ></a><br><br>
+<a href="https://github.com/neo999in/Task-Manager/releases/download/v1.0.0/app-release.apk"><img src="https://img.shields.io/badge/Download-APK-2D80EC?logo=android" width="226" ></a><br><br>
 </div>
 
 ---
@@ -92,5 +92,5 @@ task_manager/
     ├── screens/              # Modularized feature views & interactive layouts
     ├── widgets/              # Global reusable UI controls & card components
     ├── firebase_options.dart # Generated multi-platform Firebase configurations
-    └── main.dart            # Native runtime initialization & application entry
+    └── main.dart             # Native runtime initialization & application entry
 ```
