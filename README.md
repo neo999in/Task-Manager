@@ -72,7 +72,7 @@ flutter run
 <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-40C4FF?labelColor=333333&logo=Dart&logoColor=40C4FF" height="30" width="88" align="left"></a>
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?labelColor=333333&logo=Firebase&logoColor=FFCA28" height="30" width="120" align="left"></a>
 
-<br>
+<br><br>
 
 - **Key Ecosystem Packages**:
   - `firebase_auth` (Authentication Layer)
